@@ -12,7 +12,7 @@ function ajaxRequest()
 
     };
 
-    xhttp.open("GET", "data.txt", true);
+    xhttp.open("GET", "php.php", true);
 
     xhttp.send();
 
